@@ -1,0 +1,6 @@
+[Firefly]
+url=http://firefly.example.com
+personal_access_token=xxxx
+
+[Account]
+name=PostbankAccountName
