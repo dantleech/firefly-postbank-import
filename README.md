@@ -1,7 +1,7 @@
 Firefly III Postbank Importer
 =============================
 
-This script will import a Postbank CSV file to a [Firefly
+This script will attempt to import a Postbank CSV file to a [Firefly
 III](https://github.com/firefly-iii/firefly-iii) instance.
 
 Installation
