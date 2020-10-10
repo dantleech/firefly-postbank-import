@@ -42,5 +42,5 @@ Running
 Import your CSV file as follows:
 
 ```
-$ python3 import-postbank.py Umsatzauskunft_KtoNrxxxxxxx26_10-10-2020_10-07-33.csv
+$ pipenv run python3 import-postbank.py Umsatzauskunft_KtoNrxxxxxxx26_10-10-2020_10-07-33.csv
 ```
